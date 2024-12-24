@@ -17,24 +17,28 @@
 ---
 
 ## 🏆 Digital Badges
+### **Credly Badges**
 <p align="center">
   <a href="https://www.credly.com/badges/b08326cc-04e8-40ef-8acc-67902f195c37" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/70b319f6-5c09-419e-94d6-585b785b2a34/image.png" alt="Credly Badge 1" width="120">
+    <img src="https://images.credly.com/size/220x220/images/70b319f6-5c09-419e-94d6-585b785b2a34/image.png" alt="Credly Badge 1" width="100">
   </a>
   <a href="https://www.credly.com/badges/c29305c9-7b2a-4a49-bcad-a417d5c6b963" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/7e5f40c4-08e7-47e6-aecb-2d317b8dd5b3/image.png" alt="Credly Badge 2" width="120">
-  </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/19a506e8-46fe-43ca-8092-4f7261268127/badges/4946281" target="_blank">
-    <img src="https://cdn.qwiklabs.com/B1xqKv%2FF5fo28WEjDtwKqOe1CpntMIWp0lv1qi%2F%2F8VE%3D" alt="Google Cloud Badge 1" width="120">
-  </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/19a506e8-46fe-43ca-8092-4f7261268127/badges/4944289" target="_blank">
-    <img src="https://cdn.qwiklabs.com/qlmBuQBCMzEF5Mzz2NXYBdNRBxCpSYX9xnP9hW%2FMStc%3D" alt="Google Cloud Badge 2" width="120">
-  </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/19a506e8-46fe-43ca-8092-4f7261268127/badges/4943989" target="_blank">
-    <img src="https://cdn.qwiklabs.com/PMY3EzvHdsZcMEkGEXy0GnC5Ebv0EoyOWjA9ySGNNOE%3D" alt="Google Cloud Badge 3" width="120">
+    <img src="https://images.credly.com/size/220x220/images/7e5f40c4-08e7-47e6-aecb-2d317b8dd5b3/image.png" alt="Credly Badge 2" width="100">
   </a>
 </p>
 
+### **Google Cloud Badges**
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/19a506e8-46fe-43ca-8092-4f7261268127/badges/4946281" target="_blank">
+    <img src="https://cdn.qwiklabs.com/B1xqKv%2FF5fo28WEjDtwKqOe1CpntMIWp0lv1qi%2F%2F8VE%3D" alt="Google Cloud Badge 1" width="100">
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/19a506e8-46fe-43ca-8092-4f7261268127/badges/4944289" target="_blank">
+    <img src="https://cdn.qwiklabs.com/qlmBuQBCMzEF5Mzz2NXYBdNRBxCpSYX9xnP9hW%2FMStc%3D" alt="Google Cloud Badge 2" width="100">
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/19a506e8-46fe-43ca-8092-4f7261268127/badges/4943989" target="_blank">
+    <img src="https://cdn.qwiklabs.com/PMY3EzvHdsZcMEkGEXy0GnC5Ebv0EoyOWjA9ySGNNOE%3D" alt="Google Cloud Badge 3" width="100">
+  </a>
+</p>
 ---
 
 ## 🌐 Connect With Me
