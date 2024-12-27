@@ -40,10 +40,9 @@
 <p align="center">
   <img src="https://i.postimg.cc/SRwsQZxK/Screenshot-2024-12-24-at-3-55-11-PM.png" alt="Syngenta Group Badge" width="150" />
   <img src="https://i.postimg.cc/0yGQx0R8/Screenshot-2024-12-24-at-3-56-34-PM.png" alt="API Security Badge" width="150" />
-  <img src="https://i.postimg.cc/RVHhpzgJ/Screenshot-2024-12-24-at-3-57-51-PM.png" alt="Google Cloud Badge 1" width="150" />
-  <img src="https://i.postimg.cc/Gmn2ZSf7/Screenshot-2024-12-24-at-3-58-51-PM.png" alt="Google Cloud Badge 2" width="150" />
+  <img src="https://postimg.cc/56ffjDdf" alt="Google Cloud Badge 1" width="150" />
+  <img src="https://postimg.cc/0bZPSZPD" alt="Google Cloud Badge 2" width="150" />
 </p>
-
 ---
 
 ### 🛠️ Tools & Technologies
