@@ -38,11 +38,10 @@
 ### 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="/mnt/data/Screenshot%202024-12-24%20at%203.55.11%E2%80%AFPM.png" alt="Syngenta Group Badge" width="150" />
-  <img src="/mnt/data/Screenshot%202024-12-24%20at%203.56.55%E2%80%AFPM.png" alt="API Security Badge" width="150" />
-  <img src="https://www.cloudskillsboost.google/assets/badges/4946281.png" alt="Google Cloud Badge 1" width="150" />
-  <img src="https://www.cloudskillsboost.google/assets/badges/4944289.png" alt="Google Cloud Badge 2" width="150" />
-  <img src="https://www.cloudskillsboost.google/assets/badges/4943989.png" alt="Google Cloud Badge 3" width="150" />
+  <img src="https://i.postimg.cc/SRwsQZxK/Screenshot-2024-12-24-at-3-55-11-PM.png" alt="Syngenta Group Badge" width="150" />
+  <img src="https://i.postimg.cc/0yGQx0R8/Screenshot-2024-12-24-at-3-56-34-PM.png" alt="API Security Badge" width="150" />
+  <img src="https://i.postimg.cc/RVHhpzgJ/Screenshot-2024-12-24-at-3-57-51-PM.png" alt="Google Cloud Badge 1" width="150" />
+  <img src="https://i.postimg.cc/Gmn2ZSf7/Screenshot-2024-12-24-at-3-58-51-PM.png" alt="Google Cloud Badge 2" width="150" />
 </p>
 
 ---
