@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Professional Journey
 
-I'm a seasoned SDET with over 8 years of experience in building scalable test automation frameworks and implementing robust CI/CD pipelines. Currently working at Syngenta Group, I specialize in creating efficient, maintainable, and reliable automation solutions that drive quality and innovation.
+I'm a seasoned SDET with over 5 years of experience in building scalable test automation frameworks and implementing robust CI/CD pipelines. Currently working at Syngenta Group, I specialize in creating efficient, maintainable, and reliable automation solutions that drive quality and innovation.
 
 ### 🎯 Current Focus
 - 🔄 Leading the development of enterprise-level test automation frameworks
@@ -96,8 +96,6 @@ I'm a seasoned SDET with over 8 years of experience in building scalable test au
 <div align="center">
   <img src="https://i.postimg.cc/SRwsQZxK/Screenshot-2024-12-24-at-3-55-11-PM.png" alt="Syngenta Group Badge" width="150" />
   <img src="https://i.postimg.cc/0yGQx0R8/Screenshot-2024-12-24-at-3-56-34-PM.png" alt="API Security Badge" width="150" />
-  <img src="https://postimg.cc/56ffjDdf" alt="Google Cloud Badge 1" width="150" />
-  <img src="https://postimg.cc/0bZPSZPD" alt="Google Cloud Badge 2" width="150" />
 </div>
 
 ### 🎯 Key Accomplishments
