@@ -92,13 +92,117 @@ I'm a seasoned SDET with over 5 years of experience in building scalable test au
 ---
 
 ## 🏆 Professional Achievements
+
 <div align="center">
-  <img src="https://i.postimg.cc/SRwsQZxK/Screenshot-2024-12-24-at-3-55-11-PM.png" alt="Syngenta Group Badge" width="150" />
-  <img src="https://i.postimg.cc/0yGQx0R8/Screenshot-2024-12-24-at-3-56-34-PM.png" alt="API Security Badge" width="150" />
-  <img src="https://api2.sololearn.com/v2/certificates/CC-DQ08AGC8/image/jpg?t=638653526966470550" alt="AI-Powered A/B Testing - SoloLearn" width="150" />
-  <img src="https://learn.deeplearning.ai/_next/image?url=%2Fassets%2Fdlai-celebration-bg.png&w=750&q=75" alt="ChatGPT Prompt Engineering" width="150" />
-  <img src="https://academy.katalon.com/icertificate/lp6599829d6f47b/MjM3MTJZb2dlc2ggV2Fua2hlZGV2Mg.jpg" alt="GenAI in Automation with Katalon" width="150" />
+  <div class="slideshow-container">
+    <div class="slide fade">
+      <img src="https://i.postimg.cc/SRwsQZxK/Screenshot-2024-12-24-at-3-55-11-PM.png" alt="Syngenta Group Badge" style="width:150px;height:auto;">
+    </div>
+    <div class="slide fade">
+      <img src="https://i.postimg.cc/0yGQx0R8/Screenshot-2024-12-24-at-3-56-34-PM.png" alt="API Security Badge" style="width:150px;height:auto;">
+    </div>
+    <div class="slide fade">
+      <img src="https://api2.sololearn.com/v2/certificates/CC-DQ08AGC8/image/jpg?t=638653526966470550" alt="AI-Powered A/B Testing - SoloLearn" style="width:150px;height:auto;">
+    </div>
+    <div class="slide fade">
+      <img src="https://learn.deeplearning.ai/_next/image?url=%2Fassets%2Fdlai-celebration-bg.png&w=750&q=75" alt="ChatGPT Prompt Engineering" style="width:150px;height:auto;">
+    </div>
+    <div class="slide fade">
+      <img src="https://academy.katalon.com/icertificate/lp6599829d6f47b/MjM3MTJZb2dlc2ggV2Fua2hlZGV2Mg.jpg" alt="GenAI in Automation with Katalon" style="width:150px;height:auto;">
+    </div>
+    
+    <!-- Navigation arrows -->
+    <a class="prev" onclick="plusSlides(-1)">❮</a>
+    <a class="next" onclick="plusSlides(1)">❯</a>
+    
+    <!-- Play/Pause button -->
+    <button class="play-pause" onclick="togglePlayPause()">⏸️</button>
+    
+    <!-- Dots/circles -->
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+      <span class="dot" onclick="currentSlide(5)"></span>
+    </div>
+  </div>
 </div>
+
+<style>
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.slide {
+  display: none;
+  text-align: center;
+}
+
+.slide.active {
+  display: block;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.3s ease;
+  border-radius: 3px;
+  user-select: none;
+  background-color: rgba(0,0,0,0.8);
+}
+
+.next {
+  right: 0;
+}
+
+.prev {
+  left: 0;
+}
+
+.play-pause {
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 8px 12px;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  transition: 0.3s ease;
+  border-radius: 3px;
+  user-select: none;
+  background-color: rgba(0,0,0,0.8);
+  border: none;
+}
+
+.play-pause:hover {
+  background-color: rgba(0,0,0,0.9);
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.9);
+}
+
+.dot {
+  cursor: pointer;
+  height: 12px;
+  width: 12px;
+  margin: 0 5px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
 
 ### 🎯 Key Accomplishments
 - Led the development of enterprise-level test automation frameworks
