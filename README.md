@@ -110,14 +110,14 @@ I'm a seasoned SDET with over 5 years of experience in building scalable test au
     <div class="slide fade">
       <img src="https://academy.katalon.com/icertificate/lp6599829d6f47b/MjM3MTJZb2dlc2ggV2Fua2hlZGV2Mg.jpg" alt="GenAI in Automation with Katalon" style="width:150px;height:auto;">
     </div>
-    
+
     <!-- Navigation arrows -->
     <a class="prev" onclick="plusSlides(-1)">❮</a>
     <a class="next" onclick="plusSlides(1)">❯</a>
-    
+
     <!-- Play/Pause button -->
     <button class="play-pause" onclick="togglePlayPause()">⏸️</button>
-    
+
     <!-- Dots/circles -->
     <div style="text-align:center">
       <span class="dot" onclick="currentSlide(1)"></span>
@@ -203,6 +203,65 @@ I'm a seasoned SDET with over 5 years of experience in building scalable test au
   display: inline-block;
   transition: background-color 0.3s ease;
 }
+
+.dot.active {
+  background-color: #717171;
+}
+</style>
+
+<script>
+let slideIndex = 0;
+let playing = true;
+let slideInterval;
+
+document.addEventListener("DOMContentLoaded", function() {
+  showSlides();
+  slideInterval = setInterval(() => plusSlides(1), 3000);
+});
+
+function showSlides() {
+  let slides = document.getElementsByClassName("slide");
+  let dots = document.getElementsByClassName("dot");
+  for (let i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {
+    slideIndex = 1;
+  }
+  for (let i = 0; i < dots.length; i++) {
+    dots[i].classList.remove("active");
+  }
+  slides[slideIndex - 1].style.display = "block";
+  dots[slideIndex - 1].classList.add("active");
+}
+
+function plusSlides(n) {
+  slideIndex += n - 1;
+  clearInterval(slideInterval);
+  showSlides();
+  slideInterval = setInterval(() => plusSlides(1), 3000);
+}
+
+function currentSlide(n) {
+  slideIndex = n - 1;
+  clearInterval(slideInterval);
+  showSlides();
+  slideInterval = setInterval(() => plusSlides(1), 3000);
+}
+
+function togglePlayPause() {
+  let button = document.querySelector(".play-pause");
+  if (playing) {
+    clearInterval(slideInterval);
+    button.innerHTML = "▶️";
+  } else {
+    slideInterval = setInterval(() => plusSlides(1), 3000);
+    button.innerHTML = "⏸️";
+  }
+  playing = !playing;
+}
+</script>
 
 ### 🎯 Key Accomplishments
 - Led the development of enterprise-level test automation frameworks
