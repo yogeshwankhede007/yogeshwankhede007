@@ -92,10 +92,12 @@ I'm a seasoned SDET with over 5 years of experience in building scalable test au
 ---
 
 ## 🏆 Professional Achievements
-
 <div align="center">
   <img src="https://i.postimg.cc/SRwsQZxK/Screenshot-2024-12-24-at-3-55-11-PM.png" alt="Syngenta Group Badge" width="150" />
   <img src="https://i.postimg.cc/0yGQx0R8/Screenshot-2024-12-24-at-3-56-34-PM.png" alt="API Security Badge" width="150" />
+  <img src="https://api2.sololearn.com/v2/certificates/CC-DQ08AGC8/image/jpg?t=638653526966470550" alt="AI-Powered A/B Testing - SoloLearn" width="150" />
+  <img src="https://learn.deeplearning.ai/_next/image?url=%2Fassets%2Fdlai-celebration-bg.png&w=750&q=75" alt="ChatGPT Prompt Engineering" width="150" />
+  <img src="https://academy.katalon.com/icertificate/lp6599829d6f47b/MjM3MTJZb2dlc2ggV2Fua2hlZGV2Mg.jpg" alt="GenAI in Automation with Katalon" width="150" />
 </div>
 
 ### 🎯 Key Accomplishments
