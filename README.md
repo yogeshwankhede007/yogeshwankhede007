@@ -1,68 +1,58 @@
-<!-- Animated Hello -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Hello.gif" width="100%" />
-
-<h1 align="center">Hi, I'm Yogesh Wankhede 👨‍💻</h1>
 
 <p align="center">
-  <b>Automation Test Expert | UI • API • Performance | CI/CD | Cloud | SDET Specialist</b>
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" width="100%" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔬 SDET with a passion for building test automation solutions across **Web, Mobile, API & Performance**
-- 💡 Strong expertise in **CI/CD**, **Cloud**, and **Sonar-Integrated Code Quality Pipelines**
-- 🧠 Tech stack includes **Java, TypeScript, Appium, Selenium, RestAssured, Playwright, K6, JMeter**
-- 🌐 Contributor to internal frameworks, open-source tools, and automation accelerators
-- 🏆 Awarded *You Rock Award 2024 - Syngenta*, 1st Rank Avishkar Research Convention
+
+Hi there! I’m **Yogesh Wankhede**, a passionate SDET 👨‍💻 specialized in:
+
+- ✅ UI Automation (Web + Mobile)
+- ✅ API Testing & Automation
+- ✅ Performance Testing (Web/Mobile)
+- ☁️ Cloud-Ready & CI/CD Orchestrator
+- 🛡️ Quality-First Engineering Mindset
 
 ---
 
-### 🧠 Awesome Workspace
+### 🔧 Welcome To My Workspace
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Work.gif" width="75%" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80%" />
 </p>
 
 ---
 
-### 🔧 Tools & Technologies
+### 🧠 Tech Stack | Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Selenium.gif" height="40">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Appium.gif" height="40">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Postman.gif" height="40">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Playwright.gif" height="40">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/GitHub.gif" height="40">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Jenkins.gif" height="40">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/JMeter.gif" height="40">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/K6.gif" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Appium.png" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/k6.svg" width="50px"/>
+  <img src="https://raw.githubusercontent.com/jmeter-dev/apache-jmeter/main/xdocs/images/jmeter.png" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50px"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🛠️ I Work With
+
+- **Appium, Selenium, Playwright**
+- **REST-assured, Postman, Swagger**
+- **JMeter, k6**
+- **CircleCI, Jenkins, GitHub Actions**
+- **Java, JavaScript, TypeScript, Groovy**
+- **Maven, TestNG, Allure, SonarCloud**
+
+---
+
+### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yogeshwankhede007/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="mailto:yogeshwankhede007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-  <a href="https://medium.com/@yogeshwankhede007"><img src="https://skillicons.dev/icons?i=medium" height="30" /></a>
-  <a href="https://github.com/yogeshwankhede007"><img src="https://skillicons.dev/icons?i=github" height="30" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshwankhede007&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwankhede007&layout=compact&theme=github_dark" />
-</p>
-
----
-
-### 💬 Quote I Live By
-
-> "Quality is never an accident; it is always the result of intelligent effort." – John Ruskin
-
----
+  <a href
