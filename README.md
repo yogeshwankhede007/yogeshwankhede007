@@ -24,64 +24,67 @@ Senior Software Development Engineer in Test (SDET) with extensive experience in
 ## 🛠️ Technical Arsenal
 
 ### Mobile Automation Mastery 📱
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
-  <img src="https://user-images.190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
-</div>
+- **Android Testing**: Espresso, UIAutomator, Android Studio
+- **iOS Testing**: XCUITest, Swift, iOS Simulator
+- **Cross-Platform**: Appium, WebdriverIO
+- **Frameworks**: Native & Hybrid App Testing
+- **Cloud Testing**: BrowserStack, Sauce Labs, Firebase Test Lab
 
 ### Web Automation Excellence 🌐
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="60">
-</div>
+- **Primary Tools**: Selenium WebDriver, Playwright
+- **Frameworks**: TestNG, Mocha, Jest, Cypress
+- **Languages**: Java, JavaScript, TypeScript
+- **Pattern Implementation**: Page Object Model, Data-Driven Testing
+- **Cross-Browser Testing**: Chrome, Firefox, Safari, Edge
 
 ### Programming Languages & Frameworks 💻
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7cc5988c-f607-4d4f-ab01-360a4f9321eb" width="60">
-</div>
+- **Backend**: Java, Node.js, Python
+- **Frontend**: JavaScript, TypeScript, HTML5, CSS3
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Build Tools**: Maven, Gradle, npm
+- **IDEs**: IntelliJ IDEA, Visual Studio Code, XCode
 
 ### API Testing & Performance Engineering ⚡
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c727c530-7192-4c94-b491-bb9f1502a5e6" width="60">
-</div>
+- **API Testing**: REST Assured, Postman, Swagger
+- **Performance Testing**: JMeter, Gatling, k6
+- **Contract Testing**: Pact, Spring Cloud Contract
+- **Load Testing**: Artillery, Locust
+- **Monitoring**: Grafana, Prometheus
 
 ### DevOps & CI/CD Tools 🔄
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8bf2931c-4fd9-46b4-b217-69e6c7755966" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e1909120-a670-4b49-91b2-e95a01d0c7b8" width="60">
-</div>
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
+- **CI/CD**: Jenkins, GitHub Actions, CircleCI
+- **Containerization**: Docker, Kubernetes
+- **Quality Gates**: SonarQube, SonarCloud
+- **Collaboration**: Jira, Confluence, Slack
 
 ### Cloud & Monitoring Tools ☁️
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9ffcea75-ad3b-4ff9-b8b0-1ee4661ad4a7" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a28188da-2b7d-4d24-9381-2ce9b274d379" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02d5a390-b263-43a4-981c-fbdc18c8b902" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f33c5d19-64ae-41c5-be85-8d86b37a5a0d" width="60">
-</div>
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Monitoring**: DataDog, New Relic, CloudWatch
+- **Analytics**: Firebase, Google Analytics
+- **Logging**: ELK Stack, Splunk
+- **Error Tracking**: Sentry, Rollbar
 
-### AI/ML Tools for Testing 🤖
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c727c530-7192-4c94-b491-bb9f1502a5e6" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="60">
-</div>
+### AI/ML in Testing 🤖
+- **Test Generation**: Katalon AI, Testim
+- **Code Assistance**: GitHub Copilot, CursorAI, JetBrain AI Pro
+- **LLM Integration**: ChatGPT, Claude, SynGPT
+- **Visual Testing**: Percy AI, Applitools
+- **Test Optimization**: TestSigma AI, mabl
+
+### Test Management & Reporting 📊
+- **Test Management**: TestRail, Zephyr, Qtest
+- **Reporting**: Allure, Extent Reports, ChainTest
+- **Documentation**: Confluence, Markdown
+- **Analytics**: Power BI, Tableau
+- **Metrics**: Custom Dashboards, Quality Metrics, Grafana
+
+### Best Practices & Methodologies 📚
+- **Frameworks**: BDD, TDD, ATDD
+- **Methodologies**: Agile, Scrum, SAFe
+- **Standards**: ISTQB, ISO/IEC 29119
+- **Security**: OWASP, Penetration Testing
+- **Performance**: Web Performance Optimization
 
 - **CI/CD**: Jenkins, GitHub Actions, CircleCI
 - **Quality Gates**: SonarCloud Integration
@@ -90,10 +93,10 @@ Senior Software Development Engineer in Test (SDET) with extensive experience in
 - **Version Control**: Git, GitHub
 
 ### Low Code/No Code Solutions 💡
-- Custom Framework Development
-- Test Automation Strategy
-- Reusable Components Library
-- Integration with Modern Tools
+- TestProject.io
+- Katalon Studio - Web, Mobile, API 
+- Testim - Web & Mobile
+- Playwright CodeGen
 
 ## 🎯 Leadership & Soft Skills
 
