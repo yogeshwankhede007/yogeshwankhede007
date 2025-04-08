@@ -95,16 +95,47 @@ Senior Software Development Engineer in Test (SDET) with extensive experience in
 - Security Testing Automation
 - Mobile Testing Innovation
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications & Achievements
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="160">
-  <img src="https://user-images.190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" width="160">
 </div>
 
-- [Add your certifications here]
-- [Add your achievements here]
-- [Add your recognition here]
+### AI & Modern Testing Certifications
+
+<details open>
+<summary><b>View Certificates</b></summary>
+
+<div align="center">
+
+#### AI-Powered A/B Testing - SoloLearn
+<img src="https://github.com/user-attachments/assets/f2a4fcac-0ac6-4191-9b07-c9d0f1c8c486" width="700">
+<br><br>
+
+#### ChatGPT Prompt Engineering for Developers
+<img src="https://github.com/user-attachments/assets/bba3a729-15e1-4a8e-abb3-d9cebff58ec9" width="700">
+<br><br>
+
+#### Pioneering Generative AI in Test Automation - Katalon
+<img src="https://github.com/user-attachments/assets/942cbd68-4269-4dd8-96cf-0c4ec5ef02bd" width="700">
+<br><br>
+
+#### AI at Syngenta 2024
+<img src="https://github.com/user-attachments/assets/780888f6-2ccb-4aea-b5d1-0ebfcf49aa4f" width="700">
+
+</div>
+</details>
+
+### 🎯 Key Highlights
+
+- 🤖 **Advanced AI Integration**: Specialized in implementing AI-powered testing solutions
+- 🔬 **Generative AI**: Expert in leveraging AI for test automation and quality assurance
+- 📊 **A/B Testing**: Certified in modern A/B testing methodologies with AI integration
+- 🌱 **Enterprise AI**: Trained in enterprise-level AI implementation and best practices
+
+<div align="center">
+  <img src="https://user-images.190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" width="160">
+</div>
 
 ## 🤝 Let's Connect
 
