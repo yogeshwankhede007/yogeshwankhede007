@@ -26,8 +26,10 @@ Senior Software Development Engineer in Test (SDET) with extensive experience in
 ### Mobile Automation Mastery 📱
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+  <img src="https://raw.githubusercontent.com/appium/appium/master/docs/assets/images/appium-logo-horiz.png" width="120">
+  <img src="https://developer.android.com/images/brand/Android_Robot.png" width="60">
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="60">
+  <img src="https://raw.githubusercontent.com/XCUITest/XCUITest/master/XCUITest.png" width="60">
 </div>
 
 - **Android**: Espresso, Appium
@@ -39,29 +41,55 @@ Senior Software Development Engineer in Test (SDET) with extensive experience in
 ### Web Automation Excellence 🌐
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="60">
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="60">
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.svg" width="60">
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60">
 </div>
 
-- **Core Tools**: Selenium, Playwright
-- **Languages**: Java, JavaScript, TypeScript
-- **Frameworks**: Custom Built Test Automation Frameworks
-- **Best Practices**: Page Object Model, Data-Driven Testing
+### Programming Languages & Frameworks 💻
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+  <img src="https://typescript.dev/typescript-logo.svg" width="60">
+</div>
 
 ### API Testing & Performance Engineering ⚡
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="60">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60">
+  <img src="https://k6.io/images/logo.svg" width="60">
+  <img src="https://jmeter.apache.org/images/logo.svg" width="60">
+  <img src="https://www.gatling.io/wp-content/themes/gatling/images/gatling-logo.svg" width="60">
 </div>
 
-- **API Testing**: REST API, Postman
-- **Performance**: JMeter, Gatling, k6
-- **Monitoring**: DataDog Integration
-- **Documentation**: Swagger, OpenAPI
-
-### DevOps & CI/CD Proficiency 🔄
+### DevOps & CI/CD Tools 🔄
 <div align="center">
-  <img src="https://user-images.190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="60">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="60">
+  <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" width="60">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="60">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="60">
+</div>
+
+### Cloud & Monitoring Tools ☁️
+<div align="center">
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" width="60">
+  <img src="https://www.svgrepo.com/show/353805/firebase.svg" width="60">
+  <img src="https://www.svgrepo.com/show/353735/datadog.svg" width="60">
+  <img src="https://www.svgrepo.com/show/354321/slack.svg" width="60">
+  <img src="https://browserstack.com/images/static/header-logo.svg" width="60">
+</div>
+
+### AI/ML Tools for Testing 🤖
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="60">
+  <img src="https://www.svgrepo.com/show/306500/openai.svg" width="60">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/tensorflow.svg" width="60">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pytorch.svg" width="60">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="60">
 </div>
 
 - **CI/CD**: Jenkins, GitHub Actions, CircleCI
