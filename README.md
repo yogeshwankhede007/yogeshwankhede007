@@ -166,7 +166,7 @@ Senior Software Development Engineer in Test (SDET) with extensive experience in
   <a href="https://www.linkedin.com/in/ywankhede/">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="yogi.wankhede007@gmail.com">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80">
   </a>
 </div>
