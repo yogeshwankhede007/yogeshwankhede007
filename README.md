@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <h1>👋 Hi, I'm Yogesh Wankhede</h1>
-  <h3>Senior SDET | Full Stack Automation Expert | Tech Leader</h3>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+  
+  # Hi, I'm Yogesh Wankhede 👋
+  ### Senior SDET | Full Stack Automation Expert | Tech Leader
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
