@@ -1,0 +1,62 @@
+# Refreshes the two generated images used by README.md.
+#
+# Security posture:
+#   - every third-party action is pinned to a full commit SHA, never a mutable tag
+#   - the job requests the minimum token scope it needs (contents: write)
+#   - no secrets beyond the automatic GITHUB_TOKEN; no PAT required
+#   - untrusted-looking values are passed through env, never interpolated into a shell
+name: Refresh profile assets
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-assets.yml"
+      - ".github/scripts/build_stats_svg.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    name: Build stats card and contribution snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.0.0
+
+      - name: Build GitHub stats card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/build_stats_svg.py "$PROFILE_USER" assets/generated/github-stats.svg
+
+      - name: Generate contribution snake
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/generated/snake-light.svg
+            assets/generated/snake-dark.svg?palette=github-dark
+
+      - name: Commit refreshed assets
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets/generated
+          if git diff --staged --quiet; then
+            echo "Nothing changed - assets are already up to date."
+            exit 0
+          fi
+          git commit -m "chore(assets): refresh stats card and contribution snake [skip ci]"
+          git push

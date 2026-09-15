@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 212" width="900" height="212" role="img" aria-label="GitHub statistics for yogeshwankhede007">
+  <title>GitHub statistics for yogeshwankhede007</title>
+  <defs>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#0a0d37"/>
+    </linearGradient>
+    <linearGradient id="statGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#16f2b3"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <clipPath id="barClip">
+      <rect x="28" y="166" width="844" height="12" rx="6"/>
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="212" rx="16" fill="url(#cardGrad)"/>
+  <rect x="0.75" y="0.75" width="898.5" height="210.5" rx="16" fill="none" stroke="#1e2a56" stroke-width="1.5"/>
+
+  <circle cx="14" cy="30" r="4" fill="#16f2b3"/>
+  <text x="28" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.8" fill="#c3cbe4">GITHUB SIGNAL</text>
+  <text x="872" y="34" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#4c5a86">self-hosted &#183; refreshed 15 Sep 2026</text>
+
+  <g>
+    <rect x="28" y="52" width="196" height="82" rx="10" fill="#070a14" fill-opacity="0.66" stroke="#1e2a56"/>
+    <text x="126.0" y="96" text-anchor="middle" font-family="Segoe UI,Helvetica Neue,Ubuntu,Arial,sans-serif" font-size="30" font-weight="700" fill="url(#statGrad)">25</text>
+    <text x="126.0" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.4" fill="#6b76a0">ORIGINAL REPOS</text>
+  </g>
+  <g>
+    <rect x="244" y="52" width="196" height="82" rx="10" fill="#070a14" fill-opacity="0.66" stroke="#1e2a56"/>
+    <text x="342.0" y="96" text-anchor="middle" font-family="Segoe UI,Helvetica Neue,Ubuntu,Arial,sans-serif" font-size="30" font-weight="700" fill="url(#statGrad)">1</text>
+    <text x="342.0" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.4" fill="#6b76a0">STARS EARNED</text>
+  </g>
+  <g>
+    <rect x="460" y="52" width="196" height="82" rx="10" fill="#070a14" fill-opacity="0.66" stroke="#1e2a56"/>
+    <text x="558.0" y="96" text-anchor="middle" font-family="Segoe UI,Helvetica Neue,Ubuntu,Arial,sans-serif" font-size="30" font-weight="700" fill="url(#statGrad)">4</text>
+    <text x="558.0" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.4" fill="#6b76a0">FOLLOWERS</text>
+  </g>
+  <g>
+    <rect x="676" y="52" width="196" height="82" rx="10" fill="#070a14" fill-opacity="0.66" stroke="#1e2a56"/>
+    <text x="774.0" y="96" text-anchor="middle" font-family="Segoe UI,Helvetica Neue,Ubuntu,Arial,sans-serif" font-size="30" font-weight="700" fill="url(#statGrad)">2022</text>
+    <text x="774.0" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.4" fill="#6b76a0">BUILDING SINCE</text>
+  </g>
+
+  <text x="28" y="156" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.2" fill="#6b76a0">LANGUAGE MIX &#183; BY REPOSITORY</text>
+  <g clip-path="url(#barClip)">
+    <rect x="28.0" y="166" width="353.4" height="12" fill="#b07219"/>
+    <rect x="383.4" y="166" width="175.7" height="12" fill="#3572A5"/>
+    <rect x="561.1" y="166" width="86.8" height="12" fill="#3178c6"/>
+    <rect x="649.9" y="166" width="86.8" height="12" fill="#e34c26"/>
+    <rect x="738.7" y="166" width="86.8" height="12" fill="#f1e05a"/>
+    <rect x="827.6" y="166" width="42.4" height="12" fill="#F05138"/>
+  </g>
+    <circle cx="32.0" cy="200" r="4" fill="#b07219"/><text x="42.0" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8b93b0">Java 42%</text>
+    <circle cx="102.4" cy="200" r="4" fill="#3572A5"/><text x="112.4" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8b93b0">Python 21%</text>
+    <circle cx="185.4" cy="200" r="4" fill="#3178c6"/><text x="195.4" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8b93b0">TypeScript 11%</text>
+    <circle cx="293.6" cy="200" r="4" fill="#e34c26"/><text x="303.6" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8b93b0">HTML 11%</text>
+    <circle cx="364.0" cy="200" r="4" fill="#f1e05a"/><text x="374.0" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8b93b0">JavaScript 11%</text>
+    <circle cx="472.2" cy="200" r="4" fill="#F05138"/><text x="482.2" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8b93b0">Swift 5%</text>
+</svg>

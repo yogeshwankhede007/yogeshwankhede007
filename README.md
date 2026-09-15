@@ -1,462 +1,420 @@
-<!-- Dynamic Header with Typing Animation -->
-<div align="center">
-  
-  <!-- Animated Hello Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="500" alt="Hello Animation"/>
-  
-  # 👋 Hi, I'm Yogesh Wankhede
-  ### 🚀 Senior SDET | Full Stack Automation Expert | Tech Leader
-  
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Architecting+Quality+Through+Automation;AI%2FML+Powered+Test+Engineering;Mobile+%26+Web+Automation+Specialist;Transforming+QA+with+Innovation" alt="Typing SVG" />
-  </a>
+<!--
+  Profile README — yogeshwankhede007
+  Every image below is either (a) an SVG committed in this repository and referenced
+  by relative path, or (b) a static badge from img.shields.io, which GitHub serves
+  through its own Camo proxy. No trackers, no view counters, no dead-host redirects.
+  See the "How this README is built" section at the bottom.
+-->
 
-  <!-- Social Badges -->
-  <p>
-    <a href="https://www.linkedin.com/in/ywankhede/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:yogi.wankhede007@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=ywankhede&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  </p>
-  
-  <!-- Animated Line -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<div align="center">
+  <img src="assets/hero-banner.svg" width="100%" alt="Yogesh Wankhede — Full-Stack Developer, React + Python, Senior SDET roots">
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ywankhede/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogi.wankhede007@gmail.com)
+[![GitHub](https://img.shields.io/badge/Browse_The_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshwankhede007?tab=repositories)
+![Location](https://img.shields.io/badge/Pune,_India-16f2b3?style=for-the-badge)
 
 </div>
 
-<!-- About Me Section -->
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> About Me
+<img src="assets/divider.svg" width="100%" alt="">
 
-<div align="center">
+## The Pivot
 
-<!-- Interactive Profile Card -->
+> ### **Most developers learn to test.**
+> ### **I'm a tester who learned to build — and that order changes everything.**
+
+I spent my career on the other side of the pull request: breaking mobile apps, stress-testing APIs until they buckled, and engineering the chaos that production would eventually deliver anyway. I know exactly where software fails, because finding that was my job.
+
+**Now I'm building it.** I'm transitioning into a full-time developer role — **React on the frontend, Python on the backend** — and carrying every hard-won instinct with me. The null check I add without thinking. The race condition I can smell. The error state designed before the happy path. That's not a career change; that's a compounding advantage.
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<div align="center">
-  
-### 🎭 **Who Am I?**
+### 🧪 Where I Came From
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
+- **Senior SDET** across mobile, web, API, performance and chaos engineering
+- Architected automation frameworks in **Java, Python, TypeScript and Swift**
+- Owned **CI/CD quality gates** that decided what shipped and what didn't
+- Broke systems on purpose — with **ToxiProxy, k6, JMeter** and a lot of patience
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Where I'm Heading
+
+- **Full-Stack Developer** — **React + TypeScript** front, **Python** back
+- Shipping **features and products**, not just the suites that verify them
+- Building **AI-native applications** where agents are part of the architecture
+- Writing code that is **tested, observable and secure by default** — day one
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## About Me
 
 ```typescript
-const yogesh = {
-  role: "Senior SDET | Tech Leader",
-  code: ["Java", "Python", "TypeScript", "JS"],
-  askMeAbout: ["automation", "ai/ml", "mobile", "devops"],
-  challenge: "Building quality software at scale 🚀"
+const yogesh: Engineer = {
+  name:       "Yogesh Wankhede",
+  location:   "Pune, India 🇮🇳",
+  company:    "Syngenta Group",
+  title:      "Senior Software Engineer",
+  transition: "Senior SDET  ──▶  Full-Stack Developer",
+
+  buildingWith: {
+    frontend: ["React", "TypeScript", "JavaScript", "HTML5", "CSS3"],
+    backend:  ["Python", "FastAPI", "Java", "REST", "GraphQL"],
+    data:     ["PostgreSQL", "MongoDB", "Redis"],
+    cloud:    ["Docker", "Kubernetes", "GitHub Actions", "AWS"],
+  },
+
+  unfairAdvantage: "I've watched software fail in every way it can. Now I build so it doesn't.",
+
+  currentlyShipping: ["Mobix-AI", "kisan-mausam-alert", "WebSec-AI"],
+  currentlyLearning: ["System Design", "React Performance", "Async Python at scale"],
+
+  principles: ["Ship fast.", "Ship tested.", "Ship secure."],
 };
 ```
 
-</td>
-<td width="50%">
+<img src="assets/divider.svg" width="100%" alt="">
 
-<!-- Dynamic Stats Cards -->
-<div align="center">
+## Tech Arsenal
 
-![](https://img.shields.io/badge/🔭_Focus-AI%2FML_in_QE-blueviolet?style=for-the-badge&labelColor=1a1b27)
-![](https://img.shields.io/badge/📱_Expert-Mobile_Automation-00C853?style=for-the-badge&labelColor=1a1b27)
-![](https://img.shields.io/badge/🌐_Master-Web_E2E-2196F3?style=for-the-badge&labelColor=1a1b27)
-![](https://img.shields.io/badge/⚡_Skill-Performance_Testing-FF6F00?style=for-the-badge&labelColor=1a1b27)
-![](https://img.shields.io/badge/🔄_DevOps-CI%2FCD_Architect-E91E63?style=for-the-badge&labelColor=1a1b27)
-![](https://img.shields.io/badge/🤖_AI-Powered_Testing-9C27B0?style=for-the-badge&labelColor=1a1b27)
+<details open>
+<summary><b>⚛️ &nbsp;Frontend — what the user actually touches</b></summary>
+<br/>
 
-</div>
+![React](https://img.shields.io/badge/React-0d1224?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1224)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1224?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1224)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1224?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1224)
+![HTML5](https://img.shields.io/badge/HTML5-0d1224?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0d1224)
+![CSS3](https://img.shields.io/badge/CSS3-0d1224?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0d1224)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1224?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0d1224)
+![Vite](https://img.shields.io/badge/Vite-0d1224?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0d1224)
+![Redux](https://img.shields.io/badge/Redux-0d1224?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=0d1224)
 
-</td>
-</tr>
-</table>
+</details>
 
-</div>
+<details open>
+<summary><b>🐍 &nbsp;Backend — where the logic lives</b></summary>
+<br/>
 
-<!-- Current Focus - Animated Cards -->
-<div align="center">
+![Python](https://img.shields.io/badge/Python-0d1224?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1224)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1224?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0d1224)
+![Flask](https://img.shields.io/badge/Flask-0d1224?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0d1224)
+![Java](https://img.shields.io/badge/Java-0d1224?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0d1224)
+![Node.js](https://img.shields.io/badge/Node.js-0d1224?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0d1224)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d1224?style=for-the-badge&logo=graphql&logoColor=E10098&labelColor=0d1224)
 
-### 🎯 Current Focus Areas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1224?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0d1224)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1224?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=0d1224)
+![MySQL](https://img.shields.io/badge/MySQL-0d1224?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0d1224)
+![Redis](https://img.shields.io/badge/Redis-0d1224?style=flat-square&logo=redis&logoColor=DC382D&labelColor=0d1224)
+
+</details>
+
+<details open>
+<summary><b>🤖 &nbsp;AI-Native Development — agents as architecture, not autocomplete</b></summary>
+<br/>
+
+![Claude](https://img.shields.io/badge/Claude-0d1224?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0d1224)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-0d1224?style=for-the-badge&logo=anthropic&logoColor=16f2b3&labelColor=0d1224)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-0d1224?style=for-the-badge&logo=githubcopilot&logoColor=ffffff&labelColor=0d1224)
+![Cursor](https://img.shields.io/badge/Cursor-0d1224?style=for-the-badge&logo=cursor&logoColor=ffffff&labelColor=0d1224)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1224?style=for-the-badge&labelColor=0d1224)
+![LangChain](https://img.shields.io/badge/LangChain-0d1224?style=for-the-badge&logo=langchain&logoColor=1C3C3C&labelColor=0d1224)
+
+</details>
+
+<details open>
+<summary><b>☁️ &nbsp;DevOps & Cloud — from laptop to production</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-0d1224?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1224)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1224?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=0d1224)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1224?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=0d1224)
+![AWS](https://img.shields.io/badge/AWS-0d1224?style=for-the-badge&labelColor=0d1224)
+![Azure](https://img.shields.io/badge/Azure-0d1224?style=for-the-badge&labelColor=0d1224)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-0d1224?style=flat-square&logo=jenkins&logoColor=D24939&labelColor=0d1224)
+![Terraform](https://img.shields.io/badge/Terraform-0d1224?style=flat-square&logo=terraform&logoColor=7B42BC&labelColor=0d1224)
+![Grafana](https://img.shields.io/badge/Grafana-0d1224?style=flat-square&logo=grafana&logoColor=F46800&labelColor=0d1224)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1224?style=flat-square&logo=prometheus&logoColor=E6522C&labelColor=0d1224)
+![Git](https://img.shields.io/badge/Git-0d1224?style=flat-square&logo=git&logoColor=F05032&labelColor=0d1224)
+
+</details>
+
+<details open>
+<summary><b>🧪 &nbsp;Quality Engineering — the advantage I'm not leaving behind</b></summary>
+<br/>
+
+![Playwright](https://img.shields.io/badge/Playwright-0d1224?style=for-the-badge&labelColor=0d1224)
+![Selenium](https://img.shields.io/badge/Selenium-0d1224?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=0d1224)
+![Appium](https://img.shields.io/badge/Appium-0d1224?style=for-the-badge&logo=appium&logoColor=AA66CC&labelColor=0d1224)
+![Cypress](https://img.shields.io/badge/Cypress-0d1224?style=for-the-badge&logo=cypress&logoColor=69D3A7&labelColor=0d1224)
+![k6](https://img.shields.io/badge/k6-0d1224?style=for-the-badge&logo=k6&logoColor=7D64FF&labelColor=0d1224)
+
+![pytest](https://img.shields.io/badge/pytest-0d1224?style=flat-square&logo=pytest&logoColor=0A9EDC&labelColor=0d1224)
+![TestNG](https://img.shields.io/badge/TestNG-0d1224?style=flat-square&labelColor=0d1224)
+![JUnit](https://img.shields.io/badge/JUnit5-0d1224?style=flat-square&logo=junit5&logoColor=25A162&labelColor=0d1224)
+![Jest](https://img.shields.io/badge/Jest-0d1224?style=flat-square&logo=jest&logoColor=C21325&labelColor=0d1224)
+![REST Assured](https://img.shields.io/badge/REST_Assured-0d1224?style=flat-square&logo=openjdk&logoColor=5B9BD5&labelColor=0d1224)
+![Cucumber](https://img.shields.io/badge/Cucumber-0d1224?style=flat-square&logo=cucumber&logoColor=23D96C&labelColor=0d1224)
+![JMeter](https://img.shields.io/badge/JMeter-0d1224?style=flat-square&logo=apachejmeter&logoColor=D22128&labelColor=0d1224)
+![XCUITest](https://img.shields.io/badge/XCUITest-0d1224?style=flat-square&logo=apple&logoColor=ffffff&labelColor=0d1224)
+![Allure](https://img.shields.io/badge/Allure-0d1224?style=flat-square&labelColor=0d1224)
+![OWASP](https://img.shields.io/badge/OWASP-0d1224?style=flat-square&logo=owasp&logoColor=ffffff&labelColor=0d1224)
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Featured Builds
 
 <table>
 <tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="80"><br>
-<b>🔭 AI/ML Adoption</b><br>
-<sub>Quality Engineering Revolution</sub>
+<td width="50%" valign="top">
+
+### 🧠 [Mobix-AI](https://github.com/yogeshwankhede007/Mobix-AI)
+
+Where AI meets the mobile app — **autonomous mobile testing at the speed of thought.** An MCP-powered agent that drives real devices instead of following hardcoded scripts.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1224?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0d1224)
+![MCP](https://img.shields.io/badge/MCP-0d1224?style=flat-square&logo=anthropic&logoColor=16f2b3&labelColor=0d1224)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-0d1224?style=flat-square&logo=webdriverio&logoColor=EA5906&labelColor=0d1224)
+
 </td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="80"><br>
-<b>🤖 Intelligent Frameworks</b><br>
-<sub>Smart Test Automation</sub>
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="80"><br>
-<b>📱 Cross-Platform</b><br>
-<sub>Mobile Testing Innovation</sub>
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="80"><br>
-<b>☁️ Cloud-Native</b><br>
-<sub>Testing Solutions</sub>
+<td width="50%" valign="top">
+
+### 🌾 [kisan-mausam-alert](https://github.com/yogeshwankhede007/kisan-mausam-alert)
+
+AI-powered weather alerts for Indian farmers. Monitors **IMD forecasts** and pushes crop-specific advisories in the farmer's own language. Python backend with real-world impact.
+
+![Python](https://img.shields.io/badge/Python-0d1224?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1224)
+![AI](https://img.shields.io/badge/GenAI-0d1224?style=flat-square&labelColor=0d1224)
+![Automation](https://img.shields.io/badge/Scheduled_Jobs-0d1224?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0d1224)
+
 </td>
 </tr>
-</table>
-
-</div>
-
-<!-- Expertise Matrix -->
-<div align="center">
-
-### 💼 Expertise Matrix
-
-<table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-**🛠️ Technical Mastery**
-| Domain | Proficiency |
-|:-------|:------------|
-| Mobile Automation | █████████░ 95% |
-| Web Automation | █████████░ 92% |
-| API Testing | ████████░░ 88% |
-| Performance | ████████░░ 85% |
-| CI/CD Pipeline | █████████░ 90% |
-| AI-Powered Testing | ████████░░ 82% |
+### 🔐 [WebSec-AI](https://github.com/yogeshwankhede007/WebSec-AI)
+
+A toolkit that fuses **AI with offensive security technique** to detect and prevent web application vulnerabilities — OWASP coverage with prompt-engineered analysis.
+
+![Python](https://img.shields.io/badge/Python-0d1224?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1224)
+![OWASP](https://img.shields.io/badge/OWASP-0d1224?style=flat-square&logo=owasp&logoColor=ffffff&labelColor=0d1224)
+![Security](https://img.shields.io/badge/AppSec-0d1224?style=flat-square&labelColor=0d1224)
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-**🧠 Leadership & Soft Skills**
-| Skill | Level |
-|:------|:------|
-| 👨‍💼 Team Leadership | ⭐⭐⭐⭐⭐ |
-| 🎯 Strategic Planning | ⭐⭐⭐⭐⭐ |
-| 🗣️ Tech Presentations | ⭐⭐⭐⭐⭐ |
-| 🤝 Collaboration | ⭐⭐⭐⭐⭐ |
-| 📚 Mentoring | ⭐⭐⭐⭐⭐ |
-| 🔍 Problem Solving | ⭐⭐⭐⭐⭐ |
+### ⚙️ [python-pro-with-cicd](https://github.com/yogeshwankhede007/python-pro-with-cicd)
+
+Production-grade Python CI/CD template: automated **quality gates, security scanning, multi-stage deployments** and GitOps practice, wired end to end with GitHub Actions.
+
+![Python](https://img.shields.io/badge/Python-0d1224?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1224)
+![Bandit](https://img.shields.io/badge/Bandit-0d1224?style=flat-square&labelColor=0d1224)
+![Actions](https://img.shields.io/badge/GitHub_Actions-0d1224?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0d1224)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌪️ [chaos-test-framework](https://github.com/yogeshwankhede007/chaos-test-framework)
+
+Simulate, disrupt, fortify. A **BDD-driven Java framework using ToxiProxy** to prove system resilience under real-world network chaos — latency, jitter, partitions and worse.
+
+![Java](https://img.shields.io/badge/Java-0d1224?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=0d1224)
+![ToxiProxy](https://img.shields.io/badge/ToxiProxy-0d1224?style=flat-square&labelColor=0d1224)
+![Cucumber](https://img.shields.io/badge/BDD-0d1224?style=flat-square&logo=cucumber&logoColor=23D96C&labelColor=0d1224)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [PerformanceTestWithK6](https://github.com/yogeshwankhede007/PerformanceTestWithK6)
+
+Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so performance regressions get caught by a pipeline instead of a customer.
+
+![k6](https://img.shields.io/badge/k6-0d1224?style=flat-square&logo=k6&logoColor=7D64FF&labelColor=0d1224)
+![Grafana](https://img.shields.io/badge/Grafana-0d1224?style=flat-square&logo=grafana&logoColor=F46800&labelColor=0d1224)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-0d1224?style=flat-square&logo=influxdb&logoColor=22ADF6&labelColor=0d1224)
 
 </td>
 </tr>
 </table>
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<!-- Tech Stack Section -->
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Technical Arsenal
-
-<!-- Mobile Automation -->
-<details open>
-<summary><b>📱 Mobile Automation Mastery</b></summary>
-<br>
-
-<div align="center">
-
-| Platform | Tools & Frameworks |
-|:--------:|:------------------:|
-| **Android** | ![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=flat-square&logo=android&logoColor=white) ![UIAutomator](https://img.shields.io/badge/UIAutomator-3DDC84?style=flat-square&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
-| **iOS** | ![XCUITest](https://img.shields.io/badge/XCUITest-000000?style=flat-square&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) |
-| **Cross-Platform** | ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white) ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white) ![Detox](https://img.shields.io/badge/Detox-2B2E3A?style=flat-square&logo=detox&logoColor=white) |
-| **Cloud Testing** | ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white) ![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-E2231A?style=flat-square&logo=saucelabs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase_Test_Lab-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-
-</div>
-</details>
-
-<!-- Web Automation -->
-<details open>
-<summary><b>🌐 Web Automation Excellence</b></summary>
-<br>
-
-<div align="center">
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-
-![TestNG](https://img.shields.io/badge/TestNG-FF6B35?style=flat-square&logo=testng&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-
-</div>
-</details>
-
-<!-- Programming Languages -->
-<details open>
-<summary><b>💻 Programming Languages & Frameworks</b></summary>
-<br>
-
-<div align="center">
-
-<!-- Animated Tech Icons -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2bc.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50">
-
-<br><br>
-
-| Category | Technologies |
-|:--------:|:-------------|
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Build Tools** | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) |
-
-</div>
-</details>
-
-<!-- API & Performance -->
-<details open>
-<summary><b>⚡ API Testing & Performance Engineering</b></summary>
-<br>
-
-<div align="center">
-
-| Domain | Tools & Technologies |
-|:------:|:--------------------:|
-| **API Testing** | ![REST Assured](https://img.shields.io/badge/REST_Assured-5B9BD5?style=flat-square&logo=java&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
-| **Performance** | ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) ![Gatling](https://img.shields.io/badge/Gatling-FF9E2A?style=flat-square&logo=gatling&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white) ![Locust](https://img.shields.io/badge/Locust-006600?style=flat-square&logo=locust&logoColor=white) |
-| **Contract Testing** | ![Pact](https://img.shields.io/badge/Pact-5BB2E5?style=flat-square&logo=pact&logoColor=white) ![Spring Cloud Contract](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) |
-| **Monitoring** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) |
-
-</div>
-</details>
-
-<!-- DevOps & CI/CD -->
-<details open>
-<summary><b>🔄 DevOps & CI/CD Pipeline</b></summary>
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="350">
-
-<br><br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
-</div>
-</details>
-
-<!-- Cloud Platforms -->
-<details open>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
-<br>
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-| Service | Tools |
-|:-------:|:-----:|
-| **Monitoring** | ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white) ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) |
-| **Error Tracking** | ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) ![Rollbar](https://img.shields.io/badge/Rollbar-0A2E36?style=flat-square&logo=rollbar&logoColor=white) |
-| **Logging** | ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) |
-
-</div>
-</details>
-
-<!-- AI/ML in Testing -->
-<details open>
-<summary><b>🤖 AI/ML in Testing</b></summary>
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-
-<br><br>
-
-| Category | Tools & Platforms |
-|:--------:|:-----------------:|
-| **AI Code Assistance** | ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white) ![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white) ![JetBrains AI](https://img.shields.io/badge/JetBrains_AI-000000?style=flat-square&logo=jetbrains&logoColor=white) |
-| **LLM Integration** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_AI-5A67D8?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white) |
-| **AI Testing Tools** | ![Katalon AI](https://img.shields.io/badge/Katalon_AI-00B5AD?style=flat-square&logo=katalon&logoColor=white) ![Testim](https://img.shields.io/badge/Testim-5C4EE5?style=flat-square&logo=testim&logoColor=white) ![mabl](https://img.shields.io/badge/mabl-5849BE?style=flat-square&logo=mabl&logoColor=white) |
-| **Visual Testing** | ![Applitools](https://img.shields.io/badge/Applitools-3B27A1?style=flat-square&logo=applitools&logoColor=white) ![Percy](https://img.shields.io/badge/Percy-8E44AD?style=flat-square&logo=percy&logoColor=white) |
-
-</div>
-</details>
-
-<!-- Test Management & Reporting -->
-<details open>
-<summary><b>📊 Test Management & Reporting</b></summary>
-<br>
-
-<div align="center">
-
-| Category | Tools |
-|:--------:|:-----:|
-| **Test Management** | ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square&logo=testrail&logoColor=white) ![Zephyr](https://img.shields.io/badge/Zephyr-0052CC?style=flat-square&logo=zephyr&logoColor=white) ![Qtest](https://img.shields.io/badge/qTest-FF6B6B?style=flat-square&logo=qtest&logoColor=white) ![Xray](https://img.shields.io/badge/Xray-0052CC?style=flat-square&logo=xray&logoColor=white) |
-| **Reporting** | ![Allure](https://img.shields.io/badge/Allure-FF8A00?style=flat-square&logo=allure&logoColor=white) ![ExtentReports](https://img.shields.io/badge/Extent_Reports-00B4D8?style=flat-square&logo=extent&logoColor=white) ![ReportPortal](https://img.shields.io/badge/ReportPortal-FF5722?style=flat-square&logo=reportportal&logoColor=white) |
-| **Analytics** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
-
-</div>
-</details>
-
-<!-- Low Code Solutions -->
-<details>
-<summary><b>💡 Low Code/No Code Solutions</b></summary>
-<br>
-
-<div align="center">
-
-![TestProject](https://img.shields.io/badge/TestProject.io-00BFB3?style=for-the-badge&logo=testproject&logoColor=white)
-![Katalon Studio](https://img.shields.io/badge/Katalon_Studio-00B5AD?style=for-the-badge&logo=katalon&logoColor=white)
-![Testim](https://img.shields.io/badge/Testim-5C4EE5?style=for-the-badge&logo=testim&logoColor=white)
-![Playwright CodeGen](https://img.shields.io/badge/Playwright_CodeGen-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-</div>
-</details>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Certifications Section -->
-## <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="30"> Certifications & Achievements
 
 <details>
-<summary><b>🏆 Click to View Certifications</b></summary>
-<br>
+<summary><b>📦 &nbsp;More from the workshop</b></summary>
+<br/>
 
-### AI & Modern Testing Certifications
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [letcode-web-automation](https://github.com/yogeshwankhede007/letcode-web-automation) | Playwright web automation playground — modern locators, fixtures, parallel runs | `TypeScript` `Playwright` |
+| [mobile-automation-framework-cursor-ai](https://github.com/yogeshwankhede007/mobile-automation-framework-cursor-ai) | Appium + TestNG + Maven framework built with AI-assisted code generation | `Java` `Appium` `Cursor AI` |
+| [windsurf-mobile-automation](https://github.com/yogeshwankhede007/windsurf-mobile-automation) | React Native UI testing across Android & iOS on Appium 2.x | `Python` `Appium 2.x` |
+| [eReservations](https://github.com/yogeshwankhede007/eReservations) | REST API testing framework — booking flows, auth and CRUD across environments | `Java` `REST Assured` `Gatling` |
+| [Calculator-UI-Testing-Framework](https://github.com/yogeshwankhede007/Calculator-UI-Testing-Framework) | Extensible iOS UI automation on XCTest with modular page objects | `Swift` `XCTest` |
+| [dsa-dp-practice-java](https://github.com/yogeshwankhede007/dsa-dp-practice-java) | Curated data structures, algorithms and DP solutions, written for clarity | `Java` |
 
-<div align="center">
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Experience
 
 <table>
 <tr>
-<td align="center">
-<b>🤖 AI-Powered A/B Testing</b><br>
-<sub>SoloLearn</sub><br><br>
-<img src="https://github.com/user-attachments/assets/f2a4fcac-0ac6-4191-9b07-c9d0f1c8c486" width="500">
+<td valign="top" width="30%">
+
+**Syngenta Group**
+`Present`
+
+![Role](https://img.shields.io/badge/Senior_Software_Engineer-16f2b3?style=flat-square)
+
+Pune, India
+
 </td>
-</tr>
-<tr>
-<td align="center">
-<b>💬 ChatGPT Prompt Engineering</b><br>
-<sub>For Developers</sub><br><br>
-<img src="https://github.com/user-attachments/assets/bba3a729-15e1-4a8e-abb3-d9cebff58ec9" width="500">
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>🚀 Pioneering Generative AI</b><br>
-<sub>Test Automation - Katalon</sub><br><br>
-<img src="https://github.com/user-attachments/assets/942cbd68-4269-4dd8-96cf-0c4ec5ef02bd" width="500">
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>🌱 AI at Syngenta 2024</b><br>
-<sub>Enterprise AI Implementation</sub><br><br>
-<img src="https://github.com/user-attachments/assets/780888f6-2ccb-4aea-b5d1-0ebfcf49aa4f" width="500">
+<td valign="top" width="70%">
+
+- Moving from **quality engineering into full-stack product development** — React interfaces and Python services
+- Built and owned automation across **mobile, web, API and performance**, feeding CI/CD quality gates
+- Introduced **AI-assisted engineering practices** into day-to-day delivery workflows
+- Mentor to engineers learning automation, clean code and the habit of testing early
+
 </td>
 </tr>
 </table>
 
-</div>
+<!--
+  Add earlier roles here using the same two-column block:
 
-### 🎯 Key Achievements
+  <tr>
+  <td valign="top" width="30%">
+  **Company Name**
+  `2019 — 2022`
+  ...
+  </td>
+  <td valign="top" width="70%">
+  - Achievement one
+  </td>
+  </tr>
+-->
 
-<div align="center">
+<img src="assets/divider.svg" width="100%" alt="">
 
-| Achievement | Description |
-|:-----------:|:------------|
-| 🤖 **Advanced AI Integration** | Specialized in implementing AI-powered testing solutions |
-| 🔬 **Generative AI Expert** | Leveraging AI for test automation and quality assurance |
-| 📊 **A/B Testing Certified** | Modern A/B testing methodologies with AI integration |
-| 🌱 **Enterprise AI Trained** | Enterprise-level AI implementation and best practices |
-
-</div>
-
-</details>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Best Practices Section -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Best Practices & Methodologies
+## GitHub Signal
 
 <div align="center">
-
-| Category | Expertise |
-|:--------:|:----------|
-| **Testing Frameworks** | ![BDD](https://img.shields.io/badge/BDD-4479A1?style=flat-square) ![TDD](https://img.shields.io/badge/TDD-E34F26?style=flat-square) ![ATDD](https://img.shields.io/badge/ATDD-00B4D8?style=flat-square) ![Shift Left](https://img.shields.io/badge/Shift_Left-6DB33F?style=flat-square) |
-| **Methodologies** | ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white) ![SAFe](https://img.shields.io/badge/SAFe-FF6B35?style=flat-square&logo=safe&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-007ACC?style=flat-square) |
-| **Standards** | ![ISTQB](https://img.shields.io/badge/ISTQB-009688?style=flat-square) ![ISO 29119](https://img.shields.io/badge/ISO_29119-003366?style=flat-square) |
-| **Security** | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) ![Penetration Testing](https://img.shields.io/badge/Pen_Testing-DC382D?style=flat-square) |
-
+  <img src="assets/generated/github-stats.svg" width="100%" alt="GitHub statistics: original repositories, stars earned, followers and language mix">
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<!-- Connect Section -->
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ywankhede/">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:yogi.wankhede007@gmail.com">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
-</a>
-
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ywankhede/)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogi.wankhede007@gmail.com)
-
-</div>
-
-<!-- Footer -->
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
-  <br><br>
-  
-  ### 💡 *"Quality is not an act, it is a habit."* — Aristotle
-  
-  <br>
-  
-  <!-- Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-  
-</div>
-
-<!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/generated/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/generated/snake-light.svg">
+    <img src="assets/generated/snake-light.svg" width="100%" alt="Contribution graph">
   </picture>
+</div>
+
+<div align="center">
+  <sub>📡 Both images are generated inside this repository by a scheduled, SHA-pinned GitHub Action — not fetched from a third-party image service.</sub>
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## How I Build
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧬
+**Tests aren't a phase**
+
+They're a design constraint. Code that's hard to test is telling you something.
+
+</td>
+<td align="center" width="25%">
+
+### 🔭
+**If it isn't observable**
+
+it isn't done. Logs, metrics and traces ship with the feature, not after it.
+
+</td>
+<td align="center" width="25%">
+
+### 🛡️
+**Secure by default**
+
+beats secure by review. The safe path should also be the easy one.
+
+</td>
+<td align="center" width="25%">
+
+### ⚡
+**Automate the boring**
+
+Obsess over the edge. The interesting bugs live where nobody looks.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> *"Quality is not an act, it is a habit."* — **Aristotle**
+>
+> *"…and habits are what I'm compiling into production code."* — **me**
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## How This README Is Built
+
+I test software for a living, so the page introducing me gets the same scrutiny. Profile READMEs are quietly one of the most third-party-dependent pages on GitHub — this one isn't.
+
+| Decision | Why |
+|:--|:--|
+| 🎨 **All artwork is SVG committed in this repo** | Referenced by relative path. No external host can change what this page shows. |
+| 🚫 **No view counters or tracking pixels** | Counter services log every visitor to your profile. Removed. |
+| ⚰️ **No `*.herokuapp.com` or personal-app image endpoints** | Retired free-tier hosts can be re-registered by anyone, and then they choose the image. |
+| 🏷️ **Badges come only from `img.shields.io`** | Static, no PII, and GitHub's Camo proxy means visitor IPs never reach it. |
+| 📌 **Every GitHub Action pinned to a full commit SHA** | Tags are mutable; SHAs are not. Supply-chain basics. |
+| 🔑 **Least-privilege workflow token** | `permissions: contents: write`, the automatic `GITHUB_TOKEN`, and no PAT. |
+| 🧾 **Stats generated from `api.github.com` only** | [`build_stats_svg.py`](.github/scripts/build_stats_svg.py) is ~200 lines you can read in full. |
+
+<sub>Read the workflow: [`.github/workflows/profile-assets.yml`](.github/workflows/profile-assets.yml)</sub>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Let's Build Something
+
+<div align="center">
+
+**I'm looking for full-stack roles where a developer's craft and a tester's paranoia are both assets.**
+
+If you're building something that has to work — not just demo well — let's talk.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ywankhede/)
+[![Email](https://img.shields.io/badge/yogi.wankhede007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogi.wankhede007@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshwankhede007)
+
+<br/>
+
+<sub>Built with relative paths, pinned SHAs and zero trackers. ⚡</sub>
+
 </div>
