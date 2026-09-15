@@ -3,7 +3,6 @@
   Every image below is either (a) an SVG committed in this repository and referenced
   by relative path, or (b) a static badge from img.shields.io, which GitHub serves
   through its own Camo proxy. No trackers, no view counters, no dead-host redirects.
-  See the "How this README is built" section at the bottom.
 -->
 
 <div align="center">
@@ -368,10 +367,6 @@ Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so
   </picture>
 </div>
 
-<div align="center">
-  <sub>📡 Both images are generated inside this repository by a scheduled, SHA-pinned GitHub Action — not fetched from a third-party image service.</sub>
-</div>
-
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## How I Build
@@ -416,24 +411,6 @@ Obsess over the edge. The interesting bugs live where nobody looks.
 <div align="center">
   <img src="assets/quote.svg" width="100%" alt="Anyone can ship code that works. I ship code that keeps working. - Yogesh Wankhede">
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## How This README Is Built
-
-I test software for a living, so the page introducing me gets the same scrutiny. Profile READMEs are quietly one of the most third-party-dependent pages on GitHub — this one isn't.
-
-| Decision | Why |
-|:--|:--|
-| 🎨 **All artwork is SVG committed in this repo** | Referenced by relative path. No external host can change what this page shows. |
-| 🚫 **No view counters or tracking pixels** | Counter services log every visitor to your profile. Removed. |
-| ⚰️ **No `*.herokuapp.com` or personal-app image endpoints** | Retired free-tier hosts can be re-registered by anyone, and then they choose the image. |
-| 🏷️ **Badges come only from `img.shields.io`** | Static, no PII, and GitHub's Camo proxy means visitor IPs never reach it. |
-| 📌 **Every GitHub Action pinned to a full commit SHA** | Tags are mutable; SHAs are not. Supply-chain basics. |
-| 🔑 **Least-privilege workflow token** | `permissions: contents: write`, the automatic `GITHUB_TOKEN`, and no PAT. |
-| 🧾 **Stats generated from `api.github.com` only** | [`build_stats_svg.py`](.github/scripts/build_stats_svg.py) is ~200 lines you can read in full. |
-
-<sub>Read the workflow: [`.github/workflows/profile-assets.yml`](.github/workflows/profile-assets.yml)</sub>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
