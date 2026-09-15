@@ -272,43 +272,85 @@ Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so
 
 ## Experience
 
+<div align="center">
+  <img src="assets/career-arc.svg" width="100%" alt="Career trajectory: QA Engineer at Siskom Technologies, SDET at Dream11, Senior SDET at Syngenta Group, now Full-Stack Developer">
+</div>
+
 <table>
 <tr>
-<td valign="top" width="30%">
+<td valign="top" width="32%">
 
-**Syngenta Group**
-`Present`
+### 🌱 Syngenta Group
 
 ![Role](https://img.shields.io/badge/Senior_Software_Engineer-16f2b3?style=flat-square)
 
-Pune, India
+`Pune, India` &nbsp;·&nbsp; `Current`
+
+![Python](https://img.shields.io/badge/Python-0d1224?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1224)
+![React](https://img.shields.io/badge/React-0d1224?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d1224)
+![AI](https://img.shields.io/badge/AI_Tooling-0d1224?style=flat-square&logo=anthropic&logoColor=D97757&labelColor=0d1224)
 
 </td>
-<td valign="top" width="70%">
+<td valign="top" width="68%">
 
-- Moving from **quality engineering into full-stack product development** — React interfaces and Python services
-- Built and owned automation across **mobile, web, API and performance**, feeding CI/CD quality gates
+- Moving from **quality engineering into full-stack product development** — React interfaces on the front, Python services behind them
+- Built and owned automation across **mobile, web, API and performance**, wired directly into CI/CD quality gates
 - Introduced **AI-assisted engineering practices** into day-to-day delivery workflows
-- Mentor to engineers learning automation, clean code and the habit of testing early
+- Mentor engineers on automation, clean code and the habit of testing early
 
 </td>
 </tr>
 </table>
 
-<!--
-  Add earlier roles here using the same two-column block:
+<table>
+<tr>
+<td valign="top" width="32%">
 
-  <tr>
-  <td valign="top" width="30%">
-  **Company Name**
-  `2019 — 2022`
-  ...
-  </td>
-  <td valign="top" width="70%">
-  - Achievement one
-  </td>
-  </tr>
--->
+### 🏏 Dream11
+
+![Role](https://img.shields.io/badge/SDET-a78bfa?style=flat-square)
+
+`Mumbai, India` &nbsp;·&nbsp; `On-site`
+
+![Android](https://img.shields.io/badge/Android-0d1224?style=flat-square&logo=android&logoColor=3DDC84&labelColor=0d1224)
+![iOS](https://img.shields.io/badge/iOS-0d1224?style=flat-square&logo=ios&logoColor=ffffff&labelColor=0d1224)
+![API](https://img.shields.io/badge/API_Automation-0d1224?style=flat-square&logo=swagger&logoColor=85EA2D&labelColor=0d1224)
+
+</td>
+<td valign="top" width="68%">
+
+- Operated inside a high-velocity **continuous integration environment spanning Android and iOS** — fantasy sports at national scale, where a bad release is visible to millions
+- Worked shoulder to shoulder with developers, product owners, managers and directors, applying **shift-left strategy** to understand the product domain before a line of test code existed
+- Built **automated functional integration and end-to-end suites** on internal test frameworks
+- Covered **UI and API automation, Google Analytics validation** and intelligent client-handling cloud within an Agile delivery model
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="32%">
+
+### 🛰️ Siskom Technologies
+
+![Role](https://img.shields.io/badge/Quality_Assurance_Engineer-6b76a0?style=flat-square)
+
+`Pune, India` &nbsp;·&nbsp; `On-site`
+
+![Infra](https://img.shields.io/badge/Infrastructure-0d1224?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0d1224)
+![Monitoring](https://img.shields.io/badge/Monitoring-0d1224?style=flat-square&logo=grafana&logoColor=F46800&labelColor=0d1224)
+
+</td>
+<td valign="top" width="68%">
+
+- Managed, configured and maintained **enterprise-grade network hardware, servers and software systems**, holding **99.9% uptime** for mission-critical client operations
+- Monitored and optimised system performance, applying **proactive maintenance to prevent outages** before they reached the customer
+- Where the instinct started: watching real systems fail in production taught me what test cases never could
+
+</td>
+</tr>
+</table>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -372,11 +414,7 @@ Obsess over the edge. The interesting bugs live where nobody looks.
 </table>
 
 <div align="center">
-
-> *"Quality is not an act, it is a habit."* — **Aristotle**
->
-> *"…and habits are what I'm compiling into production code."* — **me**
-
+  <img src="assets/quote.svg" width="100%" alt="Anyone can ship code that works. I ship code that keeps working. - Yogesh Wankhede">
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -412,9 +450,5 @@ If you're building something that has to work — not just demo well — let's t
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ywankhede/)
 [![Email](https://img.shields.io/badge/yogi.wankhede007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogi.wankhede007@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshwankhede007)
-
-<br/>
-
-<sub>Built with relative paths, pinned SHAs and zero trackers. ⚡</sub>
 
 </div>
