@@ -7,7 +7,7 @@
 -->
 
 <div align="center">
-  <img src="assets/hero-banner.svg" width="100%" alt="Yogesh Wankhede — Full-Stack Developer, React + Python, Senior SDET roots">
+  <img src="assets/hero.svg" width="100%" alt="Yogesh Wankhede — Full-Stack Developer, React + Python, Senior SDET roots">
 </div>
 
 <div align="center">
