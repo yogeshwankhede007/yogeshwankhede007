@@ -19,7 +19,7 @@
 
   <circle cx="14" cy="30" r="4" fill="#16f2b3"/>
   <text x="28" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.8" fill="#c3cbe4">GITHUB SIGNAL</text>
-  <text x="872" y="34" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#4c5a86">self-hosted &#183; refreshed 21 Sep 2026</text>
+  <text x="872" y="34" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#4c5a86">self-hosted &#183; refreshed 22 Sep 2026</text>
 
   <g>
     <rect x="28" y="52" width="196" height="82" rx="10" fill="#070a14" fill-opacity="0.66" stroke="#1e2a56"/>
