@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 220" width="440" height="220" role="img" aria-label="Mobix-AI: Autonomous mobile testing at the speed of thought. An MCP-powered agent that drives real devices instead of following hardcoded scripts.">
+  <title>Mobix-AI: Autonomous mobile testing at the speed of thought. An MCP-powered agent that drives real devices instead of following hardcoded scripts.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/><stop offset="100%" stop-color="#0a0d37"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#16f2b3" stop-opacity="0.9"/>
+      <stop offset="30%" stop-color="#1e2a56"/>
+      <stop offset="70%" stop-color="#1e2a56"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.9"/>
+      <animate attributeName="x1" values="0;1;0" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="1;0;1" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#16f2b3"/><stop offset="55%" stop-color="#6ee7f9"/><stop offset="100%" stop-color="#a78bfa"/>
+      <animate attributeName="x1" values="0;-0.6;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;1.6;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#16f2b3" stop-opacity="0.32"/><stop offset="100%" stop-color="#16f2b3" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0 L0 0 0 28" fill="none" stroke="#16f2b3" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect width="440" height="220" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="440" height="220" fill="url(#bg)"/>
+    <rect width="440" height="220" fill="url(#grid)"/>
+    <circle cx="405" cy="11" r="141" fill="url(#glow)">
+      <animate attributeName="cx" values="405;370;405" dur="12s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <rect x="0.75" y="0.75" width="438.5" height="218.5" rx="16" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <rect x="0" y="0" width="440" height="3" fill="url(#accent)" clip-path="url(#clip)"/>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.067;1" dur="0.75s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 12;0 12;0 0" keyTimes="0;0.067;1" dur="0.75s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/><rect x="24" y="24" width="44" height="44" rx="12" fill="#16f2b3" fill-opacity="0.10" stroke="#16f2b3" stroke-opacity="0.45"/><g transform="translate(34.0 34.0) scale(1.000)" fill="none" stroke="#16f2b3" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2"/><path d="M12 18h.01"/></g><text x="84" y="44" font-family="Segoe UI,Helvetica Neue,Ubuntu,Arial,sans-serif" font-size="19" font-weight="700" fill="#e6ebff">Mobix-AI</text><text x="84" y="63" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.4" fill="#16f2b3">AI AGENT · MOBILE</text></g>
+  <circle cx="410" cy="34" r="4" fill="#16f2b3"><animate attributeName="fill-opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.222;1" dur="0.90s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 12;0 12;0 0" keyTimes="0;0.222;1" dur="0.90s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/><text x="24" y="104" font-family="Segoe UI,Helvetica Neue,Ubuntu,Arial,sans-serif" font-size="13.5" fill="#c3cbe4" font-weight="600">Autonomous mobile testing at the speed of thought.</text><text x="24" y="125" font-family="Segoe UI,Helvetica Neue,Ubuntu,Arial,sans-serif" font-size="13.5" fill="#8b93b0">An MCP-powered agent that drives real devices</text><text x="24" y="146" font-family="Segoe UI,Helvetica Neue,Ubuntu,Arial,sans-serif" font-size="13.5" fill="#8b93b0">instead of following hardcoded scripts.</text></g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.333;1" dur="1.05s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 12;0 12;0 0" keyTimes="0;0.333;1" dur="1.05s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/><rect x="24.0" y="172" width="82.0" height="24" rx="12" fill="#16f2b3" fill-opacity="0.08" stroke="#16f2b3" stroke-opacity="0.35"/><text x="65.0" y="188" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c3cbe4">TypeScript</text><rect x="114.0" y="172" width="37.2" height="24" rx="12" fill="#6ee7f9" fill-opacity="0.08" stroke="#6ee7f9" stroke-opacity="0.35"/><text x="132.7" y="188" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c3cbe4">MCP</text><rect x="159.3" y="172" width="88.5" height="24" rx="12" fill="#a78bfa" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.35"/><text x="203.5" y="188" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c3cbe4">WebdriverIO</text></g>
+  <text x="416" y="188" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#4c5a86">view repo ↗</text>
+</svg>

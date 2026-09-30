@@ -3,6 +3,10 @@
   Every image below is either (a) an SVG committed in this repository and referenced
   by relative path, or (b) a static badge from img.shields.io, which GitHub serves
   through its own Camo proxy. No trackers, no view counters, no dead-host redirects.
+
+  Cards are generated, never hand-edited:
+    python .github/scripts/build_cards.py                      -> assets/cards/*
+    python .github/scripts/build_stats_svg.py <user> <out.svg> -> assets/generated/*
 -->
 
 <div align="center">
@@ -11,10 +15,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ywankhede/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ywankhede/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogi.wankhede007@gmail.com)
 [![GitHub](https://img.shields.io/badge/Browse_The_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshwankhede007?tab=repositories)
-![Location](https://img.shields.io/badge/Pune,_India-16f2b3?style=for-the-badge)
+![Location](https://img.shields.io/badge/Pune,_India-0d1224?style=for-the-badge&logo=googlemaps&logoColor=16f2b3)
+![Open to roles](https://img.shields.io/badge/Open_to_Full--Stack_Roles-16f2b3?style=for-the-badge&logoColor=0d1224)
 
 </div>
 
@@ -78,6 +83,11 @@ const yogesh: Engineer = {
   currentlyShipping: ["Mobix-AI", "kisan-mausam-alert", "WebSec-AI"],
   currentlyLearning: ["System Design", "React Performance", "Async Python at scale"],
 
+  strengths: [
+    "Critical Thinking", "Logical Mindset", "Communication", "Leadership",
+    "Presentation", "Problem Solving", "Collaboration", "Adaptability",
+  ],
+
   principles: ["Ship fast.", "Ship tested.", "Ship secure."],
 };
 ```
@@ -90,6 +100,8 @@ const yogesh: Engineer = {
 <summary><b>⚛️ &nbsp;Frontend — what the user actually touches</b></summary>
 <br/>
 
+<div align="center">
+
 ![React](https://img.shields.io/badge/React-0d1224?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1224)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1224?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1224)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1224?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1224)
@@ -99,11 +111,15 @@ const yogesh: Engineer = {
 ![Vite](https://img.shields.io/badge/Vite-0d1224?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0d1224)
 ![Redux](https://img.shields.io/badge/Redux-0d1224?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=0d1224)
 
+</div>
+
 </details>
 
 <details open>
 <summary><b>🐍 &nbsp;Backend — where the logic lives</b></summary>
 <br/>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1224?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1224)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1224?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0d1224)
@@ -117,11 +133,15 @@ const yogesh: Engineer = {
 ![MySQL](https://img.shields.io/badge/MySQL-0d1224?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0d1224)
 ![Redis](https://img.shields.io/badge/Redis-0d1224?style=flat-square&logo=redis&logoColor=DC382D&labelColor=0d1224)
 
+</div>
+
 </details>
 
 <details open>
 <summary><b>🤖 &nbsp;AI-Native Development — agents as architecture, not autocomplete</b></summary>
 <br/>
+
+<div align="center">
 
 ![Claude](https://img.shields.io/badge/Claude-0d1224?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0d1224)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-0d1224?style=for-the-badge&logo=anthropic&logoColor=16f2b3&labelColor=0d1224)
@@ -130,11 +150,15 @@ const yogesh: Engineer = {
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d1224?style=for-the-badge&labelColor=0d1224)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1224?style=for-the-badge&logo=langchain&logoColor=1C3C3C&labelColor=0d1224)
 
+</div>
+
 </details>
 
 <details open>
 <summary><b>☁️ &nbsp;DevOps & Cloud — from laptop to production</b></summary>
 <br/>
+
+<div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-0d1224?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1224)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1224?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=0d1224)
@@ -148,11 +172,15 @@ const yogesh: Engineer = {
 ![Prometheus](https://img.shields.io/badge/Prometheus-0d1224?style=flat-square&logo=prometheus&logoColor=E6522C&labelColor=0d1224)
 ![Git](https://img.shields.io/badge/Git-0d1224?style=flat-square&logo=git&logoColor=F05032&labelColor=0d1224)
 
+</div>
+
 </details>
 
 <details open>
 <summary><b>🧪 &nbsp;Quality Engineering — the advantage I'm not leaving behind</b></summary>
 <br/>
+
+<div align="center">
 
 ![Playwright](https://img.shields.io/badge/Playwright-0d1224?style=for-the-badge&labelColor=0d1224)
 ![Selenium](https://img.shields.io/badge/Selenium-0d1224?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=0d1224)
@@ -171,86 +199,49 @@ const yogesh: Engineer = {
 ![Allure](https://img.shields.io/badge/Allure-0d1224?style=flat-square&labelColor=0d1224)
 ![OWASP](https://img.shields.io/badge/OWASP-0d1224?style=flat-square&logo=owasp&logoColor=ffffff&labelColor=0d1224)
 
+</div>
+
 </details>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Beyond the Code
+
+<div align="center">
+  <img src="assets/cards/strengths.svg" width="100%" alt="Core strengths: Critical Thinking, Logical Mindset, Communication, Leadership, Presentation, Problem Solving, Collaboration and Adaptability">
+</div>
+
+<div align="center">
+
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-16f2b3?style=flat-square)
+![Logical Mindset](https://img.shields.io/badge/Logical_Mindset-6ee7f9?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-a78bfa?style=flat-square)
+![Leadership](https://img.shields.io/badge/Leadership-ec4899?style=flat-square)
+![Presentation](https://img.shields.io/badge/Presentation-fbbf24?style=flat-square)
+![Mentoring](https://img.shields.io/badge/Mentoring-16f2b3?style=flat-square)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-a78bfa?style=flat-square)
+![Ownership](https://img.shields.io/badge/Ownership-6ee7f9?style=flat-square)
+
+</div>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## Featured Builds
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/yogeshwankhede007/Mobix-AI"><img src="assets/cards/project-mobix-ai.svg" width="49%" alt="Mobix-AI: autonomous, MCP-powered mobile testing agent"></a>
+  <a href="https://github.com/yogeshwankhede007/kisan-mausam-alert"><img src="assets/cards/project-kisan-mausam-alert.svg" width="49%" alt="kisan-mausam-alert: AI weather advisories for Indian farmers"></a>
+</p>
 
-### 🧠 [Mobix-AI](https://github.com/yogeshwankhede007/Mobix-AI)
+<p align="center">
+  <a href="https://github.com/yogeshwankhede007/WebSec-AI"><img src="assets/cards/project-websec-ai.svg" width="49%" alt="WebSec-AI: AI-assisted web vulnerability detection"></a>
+  <a href="https://github.com/yogeshwankhede007/python-pro-with-cicd"><img src="assets/cards/project-python-pro-with-cicd.svg" width="49%" alt="python-pro-with-cicd: production-grade Python CI/CD template"></a>
+</p>
 
-Where AI meets the mobile app — **autonomous mobile testing at the speed of thought.** An MCP-powered agent that drives real devices instead of following hardcoded scripts.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1224?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0d1224)
-![MCP](https://img.shields.io/badge/MCP-0d1224?style=flat-square&logo=anthropic&logoColor=16f2b3&labelColor=0d1224)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-0d1224?style=flat-square&logo=webdriverio&logoColor=EA5906&labelColor=0d1224)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 [kisan-mausam-alert](https://github.com/yogeshwankhede007/kisan-mausam-alert)
-
-AI-powered weather alerts for Indian farmers. Monitors **IMD forecasts** and pushes crop-specific advisories in the farmer's own language. Python backend with real-world impact.
-
-![Python](https://img.shields.io/badge/Python-0d1224?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1224)
-![AI](https://img.shields.io/badge/GenAI-0d1224?style=flat-square&labelColor=0d1224)
-![Automation](https://img.shields.io/badge/Scheduled_Jobs-0d1224?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0d1224)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 [WebSec-AI](https://github.com/yogeshwankhede007/WebSec-AI)
-
-A toolkit that fuses **AI with offensive security technique** to detect and prevent web application vulnerabilities — OWASP coverage with prompt-engineered analysis.
-
-![Python](https://img.shields.io/badge/Python-0d1224?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1224)
-![OWASP](https://img.shields.io/badge/OWASP-0d1224?style=flat-square&logo=owasp&logoColor=ffffff&labelColor=0d1224)
-![Security](https://img.shields.io/badge/AppSec-0d1224?style=flat-square&labelColor=0d1224)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ [python-pro-with-cicd](https://github.com/yogeshwankhede007/python-pro-with-cicd)
-
-Production-grade Python CI/CD template: automated **quality gates, security scanning, multi-stage deployments** and GitOps practice, wired end to end with GitHub Actions.
-
-![Python](https://img.shields.io/badge/Python-0d1224?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1224)
-![Bandit](https://img.shields.io/badge/Bandit-0d1224?style=flat-square&labelColor=0d1224)
-![Actions](https://img.shields.io/badge/GitHub_Actions-0d1224?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0d1224)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌪️ [chaos-test-framework](https://github.com/yogeshwankhede007/chaos-test-framework)
-
-Simulate, disrupt, fortify. A **BDD-driven Java framework using ToxiProxy** to prove system resilience under real-world network chaos — latency, jitter, partitions and worse.
-
-![Java](https://img.shields.io/badge/Java-0d1224?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=0d1224)
-![ToxiProxy](https://img.shields.io/badge/ToxiProxy-0d1224?style=flat-square&labelColor=0d1224)
-![Cucumber](https://img.shields.io/badge/BDD-0d1224?style=flat-square&logo=cucumber&logoColor=23D96C&labelColor=0d1224)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [PerformanceTestWithK6](https://github.com/yogeshwankhede007/PerformanceTestWithK6)
-
-Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so performance regressions get caught by a pipeline instead of a customer.
-
-![k6](https://img.shields.io/badge/k6-0d1224?style=flat-square&logo=k6&logoColor=7D64FF&labelColor=0d1224)
-![Grafana](https://img.shields.io/badge/Grafana-0d1224?style=flat-square&logo=grafana&logoColor=F46800&labelColor=0d1224)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-0d1224?style=flat-square&logo=influxdb&logoColor=22ADF6&labelColor=0d1224)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/yogeshwankhede007/chaos-test-framework"><img src="assets/cards/project-chaos-test-framework.svg" width="49%" alt="chaos-test-framework: BDD chaos engineering with ToxiProxy"></a>
+  <a href="https://github.com/yogeshwankhede007/PerformanceTestWithK6"><img src="assets/cards/project-performance-test-k6.svg" width="49%" alt="PerformanceTestWithK6: k6, InfluxDB and Grafana load testing"></a>
+</p>
 
 <details>
 <summary><b>📦 &nbsp;More from the workshop</b></summary>
@@ -277,7 +268,7 @@ Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so
 
 <table>
 <tr>
-<td valign="top" width="32%">
+<td valign="top" width="30%">
 
 ### 🌱 Syngenta Group
 
@@ -290,7 +281,7 @@ Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so
 ![AI](https://img.shields.io/badge/AI_Tooling-0d1224?style=flat-square&logo=anthropic&logoColor=D97757&labelColor=0d1224)
 
 </td>
-<td valign="top" width="68%">
+<td valign="top" width="70%">
 
 - Moving from **quality engineering into full-stack product development** — React interfaces on the front, Python services behind them
 - Built and owned automation across **mobile, web, API and performance**, wired directly into CI/CD quality gates
@@ -299,11 +290,8 @@ Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td valign="top" width="32%">
+<td valign="top" width="30%">
 
 ### 🏏 Dream11
 
@@ -316,7 +304,7 @@ Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so
 ![API](https://img.shields.io/badge/API_Automation-0d1224?style=flat-square&logo=swagger&logoColor=85EA2D&labelColor=0d1224)
 
 </td>
-<td valign="top" width="68%">
+<td valign="top" width="70%">
 
 - Operated inside a high-velocity **continuous integration environment spanning Android and iOS** — fantasy sports at national scale, where a bad release is visible to millions
 - Worked shoulder to shoulder with developers, product owners, managers and directors, applying **shift-left strategy** to understand the product domain before a line of test code existed
@@ -325,11 +313,8 @@ Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td valign="top" width="32%">
+<td valign="top" width="30%">
 
 ### 🛰️ Siskom Technologies
 
@@ -341,7 +326,7 @@ Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so
 ![Monitoring](https://img.shields.io/badge/Monitoring-0d1224?style=flat-square&logo=grafana&logoColor=F46800&labelColor=0d1224)
 
 </td>
-<td valign="top" width="68%">
+<td valign="top" width="70%">
 
 - Managed, configured and maintained **enterprise-grade network hardware, servers and software systems**, holding **99.9% uptime** for mission-critical client operations
 - Monitored and optimised system performance, applying **proactive maintenance to prevent outages** before they reached the customer
@@ -356,7 +341,7 @@ Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so
 ## GitHub Signal
 
 <div align="center">
-  <img src="assets/generated/github-stats.svg" width="100%" alt="GitHub statistics: original repositories, stars earned, followers and language mix">
+  <img src="assets/generated/github-stats.svg" width="100%" alt="GitHub signal: lifetime lines of code, pull requests, merged pull requests, contributions and achievements">
 </div>
 
 <div align="center">
@@ -367,46 +352,15 @@ Modern load testing done right — **k6 + InfluxDB + Grafana**, wired into CI so
   </picture>
 </div>
 
+<sub>Lifetime totals, refreshed daily by a pinned GitHub Action. Private and organisation work is summed into the totals; no repository, organisation or project detail is ever published.</sub>
+
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## How I Build
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🧬
-**Tests aren't a phase**
-
-They're a design constraint. Code that's hard to test is telling you something.
-
-</td>
-<td align="center" width="25%">
-
-### 🔭
-**If it isn't observable**
-
-it isn't done. Logs, metrics and traces ship with the feature, not after it.
-
-</td>
-<td align="center" width="25%">
-
-### 🛡️
-**Secure by default**
-
-beats secure by review. The safe path should also be the easy one.
-
-</td>
-<td align="center" width="25%">
-
-### ⚡
-**Automate the boring**
-
-Obsess over the edge. The interesting bugs live where nobody looks.
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="assets/cards/principles.svg" width="100%" alt="Engineering principles: tests shape design, built observable, secure by default, obsess over edges">
+</div>
 
 <div align="center">
   <img src="assets/quote.svg" width="100%" alt="Anyone can ship code that works. I ship code that keeps working. - Yogesh Wankhede">

@@ -1,0 +1,19 @@
+{
+  "achievements": {
+    "Pair Extraordinaire": 3,
+    "Pull Shark": 3,
+    "Quickdraw": 1,
+    "YOLO": 1
+  },
+  "contributions": 1305,
+  "lines": 166323,
+  "merged": 161,
+  "prs": 202,
+  "public": {
+    "lines": 13327,
+    "merged": 9,
+    "prs": 27
+  },
+  "repos": 34,
+  "since": 2022
+}

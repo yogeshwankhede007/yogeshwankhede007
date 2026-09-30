@@ -3,7 +3,9 @@
 # Security posture:
 #   - every third-party action is pinned to a full commit SHA, never a mutable tag
 #   - the job requests the minimum token scope it needs (contents: write)
-#   - no secrets beyond the automatic GITHUB_TOKEN; no PAT required
+#   - no secrets beyond the automatic GITHUB_TOKEN; no PAT required. It sees public
+#     data only; assets/generated/stats.json carries the lifetime snapshot and each run
+#     adds public growth on top, so the totals keep climbing and never go down.
 #   - untrusted-looking values are passed through env, never interpolated into a shell
 name: Refresh profile assets
 
@@ -16,6 +18,7 @@ on:
     paths:
       - ".github/workflows/profile-assets.yml"
       - ".github/scripts/build_stats_svg.py"
+      - ".github/scripts/svgkit.py"
 
 permissions:
   contents: write

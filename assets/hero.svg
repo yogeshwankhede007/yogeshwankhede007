@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="Yogesh Wankhede - Senior SDET, AI-Native Quality Engineering">
-  <title>Yogesh Wankhede - Senior SDET | AI-Native Quality Engineering</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="Yogesh Wankhede - Full-Stack Developer, React + Python, Senior SDET roots">
+  <title>Yogesh Wankhede - Full-Stack Developer | React + Python | Senior SDET roots</title>
 
   <defs>
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
@@ -62,7 +62,7 @@
   <rect x="0.75" y="0.75" width="898.5" height="278.5" rx="18" fill="none" stroke="#1e2a56" stroke-width="1.5"/>
 
   <g>
-    <rect x="44" y="36" width="252" height="28" rx="14" fill="#16f2b3" fill-opacity="0.09" stroke="#16f2b3" stroke-opacity="0.35"/>
+    <rect x="44" y="36" width="278" height="28" rx="14" fill="#16f2b3" fill-opacity="0.09" stroke="#16f2b3" stroke-opacity="0.35"/>
     <circle cx="62" cy="50" r="4.5" fill="#16f2b3">
       <animate attributeName="fill-opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
     </circle>
